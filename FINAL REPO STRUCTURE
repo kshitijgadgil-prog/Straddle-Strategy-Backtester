@@ -1,0 +1,17 @@
+straddle-strategy-backtester/
+│
+├── data/
+│   ├── options_data.csv
+│   └── iv_data.csv
+│
+├── strategy/
+│   └── straddle.py
+│
+├── engine/
+│   ├── backtester.py
+│   ├── metrics.py
+│   └── risk.py
+│
+├── main.py
+├── requirements.txt
+└── README.md
